@@ -24,7 +24,28 @@ A camera attached to the Raspberry Pi locates the servo starting point (a green 
 The next step is to take this data, and come up with the timing the servo will need to run for that speed in order to move a specific angle.  I plan to come up with a library that will then allow the precise movement through an arc at a specific speed, all while tracking the postion of hte servo.  
 
 ##Hardware
+- FS5103R Continuous Rotation Servo
+- Raspberry Pi 3 Model B
+- Adafruit 16-Channel PWM / Servo HAT for Raspberry Pi
+- Raspberry Pi Camera Board
+
 ###[FS5103R Continuous Rotation Server](https://www.adafruit.com/product/154)
 My first servo purchase was the FS5103R from Aadfruit.  I had no knowledge of servos, and did not know what I was getting into. For the project I am working on I really needed to control the position of the servo, and not the speed/direction.  But since I was ignorant of the operation of servos I figured I would work with what I had ordered.
+
+###[Raspberry Pi 3 Model B](https://www.adafruit.com/products/3055)
+###[Adafruit 16-Channel PWM / Servo HAT for Raspberry Pi](https://www.adafruit.com/products/2327)
+###[Raspberry Pi Camera Board](https://www.adafruit.com/products/1367)
+
+##Getting Started
+This was my first foray into using the Raspberry Pi.  
+
+###Installing and Updating Packages
+###Soldering the PWM Hat
+
+
+##References
+###[adafruit/Adafruit_Python_PCA9685](https://github.com/adafruit/Adafruit_Python_PCA9685)
+###[Ball Tracking with OpenCV](http://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/) by Adrian Rosebrock
+###[Increasing Raspberry Pi FPS with Python and OpenCV](http://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/) by Adrian Rosebrock
 
 
