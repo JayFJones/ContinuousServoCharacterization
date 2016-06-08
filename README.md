@@ -44,8 +44,8 @@ This was my first foray into using the Raspberry Pi.
 
 
 ##References
-###[adafruit/Adafruit_Python_PCA9685](https://github.com/adafruit/Adafruit_Python_PCA9685)
-###[Ball Tracking with OpenCV](http://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/) by Adrian Rosebrock
-###[Increasing Raspberry Pi FPS with Python and OpenCV](http://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/) by Adrian Rosebrock
+- [adafruit/Adafruit_Python_PCA9685](https://github.com/adafruit/Adafruit_Python_PCA9685)
+- [Ball Tracking with OpenCV](http://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/) by Adrian Rosebrock
+- [Increasing Raspberry Pi FPS with Python and OpenCV](http://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/) by Adrian Rosebrock
 
 
